@@ -14,6 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there 👋
+
+## About me
+
+🐉 I'm currently studing as a [UNSA](https://www.unsa.edu.pe/).
+
+🔭 Right now, I am improving my soft skills.
+
+🌱 I'm trying to learn cloud computing and Devops.
+
+🎣 I'm looking for new horizons.
 
 
 ## Check some of my stats
